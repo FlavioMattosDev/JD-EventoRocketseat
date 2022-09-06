@@ -1,5 +1,5 @@
 <h1 align="center">
-    Desenvolvimento weg com HTML / CSS (com Rocketseat)
+    Desenvolvimento web com HTML / CSS (com Rocketseat)
 </h1>
 
 -------
